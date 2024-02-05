@@ -47,3 +47,5 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 1. Add the following environment variables:
    - **GH_TOKEN:** The GitHub token generated above.
 1. [Pin the newly created Gist](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile)
+
+[Tutorial](https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45)
